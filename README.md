@@ -115,7 +115,7 @@ Trained models will output Accuracy and Macro F1 for both Exact and Lenient eval
 
 ---
 
-## 👥 Authors
+## 👥 Collaborators
 - Umanshiva Ladva  
 - Rajiv Chaudhary  
 - Siddhesh Gholap  
